@@ -1,14 +1,14 @@
 <h1 align="center"><code>Student/developer</code></h1>
-<p align="center"><i>Мехатроника • Embedded • Linux • Automation</i></p>
+<p align="center"><i>Mechatronics • Embedded • Linux • Automation</i></p>
 
 ---
 
 
-### Изучаю сейчас
+### Studying now
 
-- Мехатроника и робототехника
-- Embedded-системы: микроконтроллеры
-- Системное программирование под Linux
+- Mechatronics and robotics
+- Embedded systems: microcontrollers
+- System programming under Linux
 
 ---
 
