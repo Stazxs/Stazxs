@@ -20,22 +20,3 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-546E7A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-### Проекты
-
-Будут позже.
-
----
-
-### Графики
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stanislao&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislao&layout=compact&theme=gruvbox" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stanislao&theme=gruvbox" />
-</p>
-
----
-
-> *"Техника должна служить человеку. Я делаю так, чтобы она служила эффективно."*
