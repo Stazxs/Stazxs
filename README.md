@@ -1,5 +1,5 @@
 <h1 align="center"><code>Student/developer</code></h1>
-<p align="center"><i>Mechatronics • Embedded • Linux • Automation</i></p>
+<p align="center"><i>Mechatronics • Embedded • Linux </i></p>
 
 ---
 
